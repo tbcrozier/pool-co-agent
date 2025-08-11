@@ -1,0 +1,5 @@
+google-adk
+requests
+python-dotenv
+pydantic
+tqdm
